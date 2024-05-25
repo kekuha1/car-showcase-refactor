@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Raleway } from "next/font/google";
+import { Outfit } from "next/font/google";
 import "./globals.css";
 import {
   ClerkProvider,
@@ -9,7 +9,7 @@ import {
 } from "@clerk/nextjs";
 import Navbar from "@/components/Navbar";
 
-const inter = Raleway({ subsets: ["latin"] });
+const inter = Outfit({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "CarHub 2.0",

@@ -7,7 +7,7 @@ function SearchInput() {
         className="text-center text-[20px]
         text-gray-400 mb-3"
       >
-        Lets Search what you need
+        Let's Get You on the Road! 
       </h2>
       <div className="flex justify-center">
         <div
@@ -19,7 +19,7 @@ function SearchInput() {
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="currentColor"
-              className="w-5 h-5 text-black"
+              className="w-6 h-6 text-black"
             >
               <path
                 fillRule="evenodd"
